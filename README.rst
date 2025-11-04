@@ -3,7 +3,7 @@
 .. Last updated on: Wednesday, August 13 2025
 
 ===============================================================================
-SlowTorch
+FastTorch
 ===============================================================================
 
 **SlowTorch** is another personal pet-project of mine where I tried and
